@@ -1,0 +1,17 @@
+.awesome__card {
+    text-align: center;
+    display: inline-block;
+    width: 33.3%;
+    padding: 15px;
+}
+.awesome__card-description {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.awesome__card-title {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+.awesome__content-box {
+    font-size: 0px;
+}

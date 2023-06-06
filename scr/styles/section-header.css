@@ -1,0 +1,19 @@
+.section-header {
+    text-align: center;
+    padding: 20px 0;
+}
+.section-header__title {
+    font-size: 2.3rem;
+    text-transform: uppercase;
+}
+.section-header__description {
+    font-size: 18px;
+    margin-top: 15px;
+}
+.section-header__line {
+    display: inline-block;
+    height: 1px;
+    width: 170px;
+    background-color:#EC7979;
+    margin-top: 15px;
+}

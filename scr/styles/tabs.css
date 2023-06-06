@@ -1,0 +1,68 @@
+.container2 {
+  max-width: 1170px;
+  margin: 0 auto;
+  border: 1px solid #c6cbcd;
+  font-family: "Open Sans", sans-serif;
+}
+.containertabs123 {
+  max-width: 1170px;
+  margin: 0 auto;
+  font-family: "Open Sans", sans-serif;
+  padding: 40px 0px 0px 0px;
+}
+.tab__tab1 {
+  display: inline;
+  padding: 15px 70px 3px 80px;
+  background-color: #ffffff;
+  border-top: 1px solid #c6cbcd;
+  border-right: 1px solid #c6cbcd;
+  border-left: 1px solid #c6cbcd;
+  border-bottom: 3px solid #ffffff;
+  border-radius: 5px;
+}
+.tab__tab2 {
+  display: inline;
+  padding: 15px 70px 0px 80px;
+}
+.tab__tab3 {
+  display: inline;
+  padding: 15px 0px 0px 50px;
+}
+.text {
+  display: inline-block;
+  width: 600px;
+  padding: 0px;
+}
+.in-block {
+  padding-left: 93px;
+  vertical-align: top;
+}
+.text__header {
+  font-size: 30px;
+  padding: 30px 0px 0px 60px;
+}
+.text__description1 {
+  padding: 70px 0px 0px 60px;
+  font-size: 18px;
+}
+.text__description2 {
+  padding: 20px 0px 0px 60px;
+  font-size: 18px;
+}
+.download {
+  margin: 27px 0px 0px 60px;
+  width: 270px;
+  height: 58px;
+  color: white;
+  background-color: #ec7979;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
+.download:hover {
+  background-color: #ab4949;
+}
+.download:active {
+  background-color: #ec7979;
+  box-shadow: inset 0px 0px 10px #ab4949;
+}
